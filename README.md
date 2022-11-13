@@ -1,10 +1,10 @@
 # Index
-- [OSINT](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#osint)
-- [Tor](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#tor)
-- [Search Engines](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#search-engines)
-- [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#free-courses-with-certificates)
-- [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#privacy--security)
-- [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#exploits--hacking)
+- [OSINT](https://github.com/TheRedstoneRadiant/Stuff#osint)
+- [Tor](https://github.com/TheRedstoneRadiant/Stuff/README.md#tor)
+- [Search Engines](https://github.com/TheRedstoneRadiant/Stuff/README.md#search-engines)
+- [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/README.md#free-courses-with-certificates)
+- [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/README.md#privacy--security)
+- [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/README.md#exploits--hacking)
 
 
 ## OSINT
