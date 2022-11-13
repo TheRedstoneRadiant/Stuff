@@ -1,5 +1,6 @@
 # Index
 - [OSINT](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#osint)
+- [Tor](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#tor)
 
 ## OSINT
 
@@ -19,10 +20,11 @@
 
 - [Hunter.io - Find company email addresses](https://hunter.io/)
 
-- [Reverse image search guide by Aric Toler](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations)
-<img src="https://user-images.githubusercontent.com/76220359/201502115-f6b63ff0-5688-4efa-a108-54910bad5e76.png" width="400">
+- [Setting up anonymous sockpuppet accounts](https://redd.it/dp70jr)
 
-## Tor stuff
+- [Reverse image search engine guide](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations)
+
+## Tor
 
 - [Tor.taxi](https://tor.taxi/)
 
@@ -56,12 +58,33 @@
 
 - [Greynoise - Malicious IP address monitoring](https://viz.greynoise.io)
 
-## Misc
+## Free certificates
 
-- [Setting up anonymous sockpuppet accounts (r/OSINT)](https://redd.it/dp70jr)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+
+- [Harvard CS50](https://cs50.harvard.edu/x)
+
+- [mooc.fi](https://mooc.fi)
+
+- [Basel Institute](https://learn.baselgovernance.org/)
+
+## Privacy & Security
 
 - [Privacyguides.org](https://privacyguides.org)
 
 - [Privacytools.io](https://privacytools.io)
 
 - [Opsec101](https://opsec101.org/)
+
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+
+## Exploits & Vulnerabilities
+
+- [Owasp Top 10](https://owasp.org/www-project-top-ten/)
+
+- [Binary Exploitation](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+- [Exploit Database](https://www.exploit-db.com/)
+
+
+Feel free to submit a pr.
