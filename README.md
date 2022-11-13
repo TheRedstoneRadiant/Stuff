@@ -1,6 +1,11 @@
 # Index
 - [OSINT](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#osint)
 - [Tor](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#tor)
+- [Search Engines](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#search-engines)
+- [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#free-courses-with-certificates)
+- [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#privacy--security)
+- [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/edit/main/README.md#exploits--hacking)
+
 
 ## OSINT
 
@@ -58,16 +63,6 @@
 
 - [Greynoise - Malicious IP address monitoring](https://viz.greynoise.io)
 
-## Free certificates
-
-- [freeCodeCamp](https://www.freecodecamp.org/)
-
-- [Harvard CS50](https://cs50.harvard.edu/x)
-
-- [mooc.fi](https://mooc.fi)
-
-- [Basel Institute](https://learn.baselgovernance.org/)
-
 ## Privacy & Security
 
 - [Privacyguides.org](https://privacyguides.org)
@@ -78,13 +73,23 @@
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 
-## Exploits & Vulnerabilities
+## Exploits & Hacking
 
-- [Owasp Top 10](https://owasp.org/www-project-top-ten/)
+- [TryHackMe](https://tryhackme.com/)
 
 - [Binary Exploitation](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 - [Exploit Database](https://www.exploit-db.com/)
 
+- [Owasp Top 10](https://owasp.org/www-project-top-ten/)
 
-Feel free to submit a pr.
+
+## Free courses (with certificates)
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+
+- [Harvard CS50](https://cs50.harvard.edu/x)
+
+- [mooc.fi](https://mooc.fi)
+
+- [Basel Institute](https://learn.baselgovernance.org/)
