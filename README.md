@@ -45,7 +45,7 @@
 
 - [Wigle - Wifi SSID lookup](https://wigle.net/)
 
-- [ONYPHE - Advanced IP address lookup](https://www.onyphe.io/search)
+- [ONYPHE - Advanced IP address lookup](https://www.onyphe.io)
 
 - [Netlas.io - Domain and IP scanner](https://app.netlas.io/)
 
