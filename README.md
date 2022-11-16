@@ -63,6 +63,8 @@
 
 - [Greynoise - Malicious IP address monitoring](https://viz.greynoise.io)
 
+- [SearX - Decentralized and open source metasearch engine](https://searx.space/)
+
 ## Privacy & Security
 
 - [Privacyguides.org](https://privacyguides.org)
