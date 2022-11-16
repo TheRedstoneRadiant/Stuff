@@ -93,3 +93,7 @@
 - [mooc.fi](https://mooc.fi)
 
 - [Basel Institute](https://learn.baselgovernance.org/)
+
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
