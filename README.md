@@ -28,6 +28,7 @@
 - [Setting up anonymous sockpuppet accounts](https://redd.it/dp70jr)
 
 - [Reverse image search engine guide](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations)
+- [Pimeyes - Facial Recognition](https://pimeyes.com/en)
 
 ## Tor
 
@@ -78,6 +79,8 @@
 ## Exploits & Hacking
 
 - [TryHackMe](https://tryhackme.com/)
+
+- [Portswigger - Learn Web Hacking](https://portswigger.net/web-security/dashboard)
 
 - [Binary Exploitation](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
