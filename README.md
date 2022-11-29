@@ -4,7 +4,7 @@
 - [Search Engines](https://github.com/TheRedstoneRadiant/Stuff/README.md#search-engines)
 - [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/README.md#free-courses-with-certificates)
 - [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/README.md#privacy--security)
-- [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/README.md#exploits--hacking)
+- [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/blob/main/README.md#exploits--hacking)
 
 
 ## OSINT
