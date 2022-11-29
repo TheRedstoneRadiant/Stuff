@@ -68,6 +68,8 @@
 
 ## Privacy & Security
 
+- [Image "Cloaking"](https://sandlab.cs.uchicago.edu/fawkes/) 
+
 - [Privacyguides.org](https://privacyguides.org)
 
 - [Privacytools.io](https://privacytools.io)
@@ -75,6 +77,8 @@
 - [Opsec101](https://opsec101.org/)
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+
+- [Personal Security Checklist: Github](https://github.com/Lissy93/personal-security-checklist#web-browsing)
 
 ## Exploits & Hacking
 
