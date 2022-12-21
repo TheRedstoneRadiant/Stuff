@@ -23,6 +23,8 @@
 
 - [Sherlock - Find social media accounts by username](https://github.com/sherlock-project/sherlock)
 
+- [Mailfogle - Find public data on a Google email address](https://github.com/WildSiphon/Mailfogle)
+
 - [Hunter.io - Find company email addresses](https://hunter.io/)
 
 - [Setting up anonymous sockpuppet accounts](https://redd.it/dp70jr)
