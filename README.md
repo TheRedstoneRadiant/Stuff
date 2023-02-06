@@ -1,9 +1,9 @@
 # Index
 - [OSINT](https://github.com/TheRedstoneRadiant/Stuff#osint)
+- [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/README.md#privacy--security)
 - [Tor](https://github.com/TheRedstoneRadiant/Stuff/README.md#tor)
 - [Search Engines](https://github.com/TheRedstoneRadiant/Stuff/README.md#search-engines)
 - [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/README.md#free-courses-with-certificates)
-- [Privacy & Security](https://github.com/TheRedstoneRadiant/Stuff/README.md#privacy--security)
 - [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/blob/main/README.md#exploits--hacking)
 
 
@@ -32,6 +32,26 @@
 - [Reverse image search engine guide](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations)
 
 - [Pimeyes - Facial Recognition](https://pimeyes.com/en)
+
+## Privacy & Security
+
+- [Signal.org](https://signal.org)
+
+- [Tor Project](https://torproject.org)
+
+- [AmIUnique](https://amiunique.org)
+
+- [Image "Cloaking"](https://sandlab.cs.uchicago.edu/fawkes/) 
+
+- [Privacyguides.org](https://privacyguides.org)
+
+- [Privacytools.io](https://privacytools.io)
+
+- [Opsec101](https://opsec101.org/)
+
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+
+- [Personal Security Checklist: Github](https://github.com/Lissy93/personal-security-checklist#web-browsing)
 
 ## Tor
 
@@ -68,20 +88,6 @@
 - [Greynoise - Malicious IP address monitoring](https://viz.greynoise.io)
 
 - [SearX - Decentralized and open source metasearch engine](https://searx.space/)
-
-## Privacy & Security
-
-- [Image "Cloaking"](https://sandlab.cs.uchicago.edu/fawkes/) 
-
-- [Privacyguides.org](https://privacyguides.org)
-
-- [Privacytools.io](https://privacytools.io)
-
-- [Opsec101](https://opsec101.org/)
-
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
-
-- [Personal Security Checklist: Github](https://github.com/Lissy93/personal-security-checklist#web-browsing)
 
 ## Exploits & Hacking
 
