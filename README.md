@@ -6,7 +6,7 @@
 - [Free courses (with certificates)](https://github.com/TheRedstoneRadiant/Stuff/README.md#free-courses-with-certificates)
 - [Exploits & Hacking](https://github.com/TheRedstoneRadiant/Stuff/blob/main/README.md#exploits--hacking)
 
-## Privacy & Security
+### Privacy & Security
 
 - [Signal.org](https://signal.org)
 
@@ -28,7 +28,7 @@
 
 - [Personal Security Checklist: Github](https://github.com/Lissy93/personal-security-checklist#web-browsing)
 
-## OSINT
+### OSINT
 
 - [OSINT Framework](https://osintframework.com/)
 
@@ -54,7 +54,7 @@
 
 - [Pimeyes - Facial Recognition](https://pimeyes.com/en)
 
-## Tor
+### Tor
 
 - [Tor.taxi](https://tor.taxi/)
 
@@ -62,7 +62,7 @@
 
 - [Cyber Threat Intelligence sources](https://github.com/fastfire/deepdarkCTI)
 
-## Search engines
+### Search engines
 
 - [LeakiX - Search through data breaches](https://leakix.net/)
 
@@ -90,20 +90,7 @@
 
 - [SearX - Decentralized and open source metasearch engine](https://searx.space/)
 
-## Exploits & Hacking
-
-- [TryHackMe](https://tryhackme.com/)
-
-- [Portswigger - Learn Web Hacking](https://portswigger.net/web-security/dashboard)
-
-- [Binary Exploitation](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-
-- [Exploit Database](https://www.exploit-db.com/)
-
-- [Owasp Top 10](https://owasp.org/www-project-top-ten/)
-
-
-## Free courses (with certificates)
+### Free courses (with certificates)
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
@@ -116,3 +103,15 @@
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
+
+### Exploits & Hacking
+
+- [TryHackMe](https://tryhackme.com/)
+
+- [Portswigger - Learn Web Hacking](https://portswigger.net/web-security/dashboard)
+
+- [Binary Exploitation](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+- [Exploit Database](https://www.exploit-db.com/)
+
+- [Owasp Top 10](https://owasp.org/www-project-top-ten/)
