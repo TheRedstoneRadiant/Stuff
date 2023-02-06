@@ -39,6 +39,8 @@
 
 - [Tor Project](https://torproject.org)
 
+- [QubesOS](https://www.qubes-os.org)
+
 - [AmIUnique](https://amiunique.org)
 
 - [Image "Cloaking"](https://sandlab.cs.uchicago.edu/fawkes/) 
